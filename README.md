@@ -1,1 +1,2 @@
-# P02_CV_Miss_L
+# Cv_Miss_L
+permalink: /CV_Miss_L.html
